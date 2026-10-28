@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/opnsense-uidfield-system-uid0">opnsense-uidfield-system-uid0</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/opnsense-uidfield-system-uid0"><strong>https://abraxaslabs.tech/research/opnsense-uidfield-system-uid0</strong></a>
+</p>
+
 
 # opnsense-uidfield-system-uid0
 
